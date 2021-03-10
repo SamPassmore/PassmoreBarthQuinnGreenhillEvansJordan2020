@@ -1,0 +1,12 @@
+﻿label_,N,cluster_label,type,cols
+7,69,A,Cross-Parallel,#1389E6
+0,51,B,Eskimo,#1C8364
+3,35,C,Hawaiian,#A653C2
+5,21,D,Eskimo,#35C361
+4,20,E,Eskimo,#96ED4C
+2,19,F,Hawaiian,#F46F9C
+6,19,G,Cross-Parallel,#08519C
+8,11,H,Cross-Parallel,#16C1DE
+1,10,I,Sudanese,#ED5C4D
+-1,51,Outlier,NA,lightgrey
+,,,,
